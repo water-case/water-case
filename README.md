@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a><img src="https://img.shields.io/badge/HTML-success?style=flat&logo=HTML5&logoColor=#E34F26"/>
 <img src="https://img.shields.io/badge/CSS-success?style=flat&logo=CSS3&logoColor=#1572B6"/>
 <img src="https://img.shields.io/badge/JS-success?style=flat&logo=JavaScript&logoColor=#F7DF1E"/></a>
-<img src="https://img.shields.io/badge/C-success?style=flat&logo=C&logoColor=#A8B9CC"/>
-<img src="https://img.shields.io/badge/Java-success?style=flat&logo=Java&logoColor=#007396"/>
+<a><img src="https://img.shields.io/badge/C-success?style=flat&logo=C&logoColor=#A8B9CC"/>
+<img src="https://img.shields.io/badge/Java-success?style=flat&logo=Java&logoColor=#007396"/></a>>
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd30142">

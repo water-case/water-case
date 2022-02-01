@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <a><img src="https://img.shields.io/badge/C-success?style=flat&logo=C&logoColor=#A8B9CC"/>
 <img src="https://img.shields.io/badge/Java-success?style=flat&logo=Java&logoColor=#007396"/></a>
 
-<img href='https://solved.ac/profile/wjd30142' align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd30142">
+<a href='https://solved.ac/profile/wjd30142'><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd30142"></a>

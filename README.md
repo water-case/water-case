@@ -19,3 +19,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </span>
 
+<span>
+  
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=wjd30142&theme=cold)
+
+</span>

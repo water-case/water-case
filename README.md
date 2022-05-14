@@ -14,13 +14,19 @@
   <img src="https://img.shields.io/badge/JS-yellow?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/C-lightgray?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 </p>

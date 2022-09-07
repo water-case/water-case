@@ -33,7 +33,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=SpringDataJPA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=MyBatis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat&logo=SpringDataJPA&logoColor=white"/>
 </p>
 
 <p>

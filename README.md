@@ -1,6 +1,5 @@
 <span>
   <a href='https://solved.ac/profile/wjd30142'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd30142"></a>
-  <a href='https://solved.ac/profile/wjd30142'><img src="http://mazandi.herokuapp.com/api?handle=wjd30142&theme=cold"></a>
 </span>
 
 <br>

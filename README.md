@@ -1,6 +1,6 @@
-<span>
-  <a href='https://solved.ac/profile/wjd30142'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd30142"></a>
-</span>
+<p align="center">
+<a href="https://solved.ac/profile/wjd30142"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=wjd30142"></a><br>
+</p>
 
 <br>
 <br>

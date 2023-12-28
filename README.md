@@ -4,7 +4,7 @@
 <br>
 
 항목|목록
-:--:|:--:
+:--|:--
 Language|<img src="https://img.shields.io/badge/C-lightgray?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 Web|<img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Vue2-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 Server|<img src="https://img.shields.io/badge/Spring/Boot-6DB33F?style=flat&logo=Spring&logoColor=white"/>
